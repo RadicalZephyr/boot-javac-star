@@ -1,3 +1,7 @@
+## DEPRECATED
+
+You probably want to use [virgil](https://github.com/ztellman/virgil#boot) instead.
+
 # boot-javac*
 
 [](dependency)
